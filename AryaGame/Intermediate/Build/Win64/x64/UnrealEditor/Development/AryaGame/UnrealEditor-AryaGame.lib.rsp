@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AryaGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\Unreal Engine\Projet\AryaGame\AryaGame\Intermediate\Build\Win64\x64\AryaGameEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"G:\Unreal Engine\Projet\AryaGame\AryaGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\AryaGame\AryaGame.init.gen.cpp.obj"
+"G:\Unreal Engine\Projet\AryaGame\AryaGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\AryaGame\Gladys.gen.cpp.obj"
+"G:\Unreal Engine\Projet\AryaGame\AryaGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\AryaGame\AryaGame.cpp.obj"
+"G:\Unreal Engine\Projet\AryaGame\AryaGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\AryaGame\Gladys.cpp.obj"
+"G:\Unreal Engine\Projet\AryaGame\AryaGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\AryaGame\Default.rc2.res"
+/OUT:"G:\Unreal Engine\Projet\AryaGame\AryaGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\AryaGame\UnrealEditor-AryaGame.lib"

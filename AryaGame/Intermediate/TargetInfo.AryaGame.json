@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AryaGame",
+			"Path": "..\\Source\\AryaGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AryaGameEditor",
+			"Path": "..\\Source\\AryaGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
