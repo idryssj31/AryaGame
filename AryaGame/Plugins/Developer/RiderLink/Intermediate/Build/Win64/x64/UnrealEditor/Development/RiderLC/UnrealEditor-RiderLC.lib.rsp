@@ -6,6 +6,6 @@
 /NAME:"UnrealEditor-RiderLC.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"G:\Unreal Engine\Projet\AryaGame\AryaGame\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\Development\RiderLC\Module.RiderLC.cpp.obj"
-"G:\Unreal Engine\Projet\AryaGame\AryaGame\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\Development\RiderLC\Default.rc2.res"
-/OUT:"G:\Unreal Engine\Projet\AryaGame\AryaGame\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\Development\RiderLC\UnrealEditor-RiderLC.lib"
+"C:\Users\idrys\Documents\GitHub\AryaGame\AryaGame\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\Development\RiderLC\Module.RiderLC.cpp.obj"
+"C:\Users\idrys\Documents\GitHub\AryaGame\AryaGame\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\Development\RiderLC\Default.rc2.res"
+/OUT:"C:\Users\idrys\Documents\GitHub\AryaGame\AryaGame\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\Development\RiderLC\UnrealEditor-RiderLC.lib"
